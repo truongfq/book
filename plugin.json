@@ -7,12 +7,33 @@
     {
       "name": "Bạch Ngọc Sách",
       "author": "vBook",
-      "path": "https://raw.githubusercontent.com/truongfq/book/blob/main/bachngocsach/plugin.zip",
+      "path": "https://raw.githubusercontent.com/truongfq/book/master/bachngocsach/plugin.zip",
       "version": 13,
       "source": "https://bnsach.com/reader",
-      "icon": "https://raw.githubusercontent.com/truongfq/book/blob/main/bachngocsach/icon.png",
+      "icon": "https://raw.githubusercontent.com/truongfq/book/master/bachngocsach/icon.png",
       "description": "Đọc truyện trên trang bnsach.com/reader",
       "type": "novel",
       "locale": "vi_VN"
     },
-   
+    {
+      "name": "Tàng Thư Viện",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/truongfq/book/master/tangthuvien/plugin.zip",
+      "version": 13,
+      "source": "https://bnsach.com/reader",
+      "icon": "https://raw.githubusercontent.com/truongfq/book/master/tangthuvien/icon.png",
+      "description": "Đọc truyện trên trang bnsach.com/reader",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+     {
+      "name": "TruyenTV",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/truongfq/book/master/tvtruyen/plugin.zip",
+      "version": 13,
+      "source": "https://bnsach.com/reader",
+      "icon": "https://raw.githubusercontent.com/truongfq/book/master/tvtruyen/icon.png",
+      "description": "Đọc truyện trên trang bnsach.com/reader",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
