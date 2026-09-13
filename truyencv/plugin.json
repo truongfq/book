@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "name": "TruyenCV",
+    "author": "truongfq",
+    "version": 1,
+    "source": "https://truyencv.io",
+    "regexp": "(truyencv\\.io|truyencv\\.com)",
+    "description": "Đọc truyện chữ từ TruyenCV",
+    "locale": "vi_VN",
+    "type": "novel"
+  }
+}
